@@ -1,7 +1,7 @@
 title: Natasha Thalluri
 author: Natasha Thalluri
 url: https://nthalluri.github.io # root address of the site
-baseurl: "/natasha-thalluri" # set to "/moonwalk" if hosting under a project subpath
+baseurl: "" # set to "/moonwalk" if hosting under a project subpath
 description: > # description of the site (multiple lines allowed)
  I am a 6th year graduate student at the department of linguistics at Harvard University. I am supervised by Dr Gennaro Chierchia and Dr Kathryn Davidson. My research focuses on questions in formal semantics and the syntax-semantics interface which I investigate across both spoken and signed languages. 
 
