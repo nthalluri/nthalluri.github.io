@@ -1,6 +1,6 @@
 navbar_entries:
-  - title: About
-    url: https://nthalluri.github.io/natasha-thalluri/
+  - title: Home
+    url: /
 
   - title: Research
     url: blog
